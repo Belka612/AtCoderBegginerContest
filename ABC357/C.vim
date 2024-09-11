@@ -1,0 +1,9 @@
+<CTRL-V>G$"ay
+<CTRL-V>G$r.
+"aP
+$"ap
+"bdG
+3"aP
+Go<ESC>"bP
+G3"ap
+ZZ
